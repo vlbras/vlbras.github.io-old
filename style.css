@@ -21,7 +21,7 @@ a{
 .logo{
   border-left: 10px solid;
   border-top: 10px solid;
-  border-image-source:linear-gradient(to right,#019cd4, #00cdff);
+  border-image-source:linear-gradient(to right,#A3F9FF, #0FEFFF);
   border-image-slice:1;
   padding:20px;
   }
@@ -37,7 +37,7 @@ a{
   align-items:center;
   border-right:10px solid;
   border-bottom:10px  solid;
-  border-image-source:linear-gradient(to right,#22cafb,#00cdff);
+  border-image-source:linear-gradient(to right,#0FEFFF,#00C0F0);
   border-image-slice:1;
   padding:10px;
   }
